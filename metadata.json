@@ -1,0 +1,8 @@
+{
+  "name": "Número Certo",
+  "description": "Plataforma demonstrativa e transparente para sorteios e rifas organizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
